@@ -1,0 +1,22 @@
+.styles{
+    color:#AA60C8;
+    background-color:#D69ADE;
+}
+.login{
+    background-image: url('../img/space1.jpg') ;
+    background-color: #fff; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    color:wheat;
+}
+.kidcalc{   
+    background-image: url('../img/space2.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+    background-attachment: fixed;
+    color:purple;
+}
+h1{
+    color:purple;
+}

@@ -1,0 +1,20 @@
+
+.styles{
+    color:#854836;
+    background-color:#B9B28A ;
+}
+.login{
+    background-image: url('../img/car1.jpg') ;
+    background-color: #fff; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 500px;
+    color:brown;
+}
+.kidcalc{   
+    background-image: url('../img/carr.jpg');
+    background-repeat: no-repeat;
+    background-position:left;
+    background-attachment: fixed;
+    color:brown;
+}

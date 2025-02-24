@@ -1,0 +1,14 @@
+@import"home.css";
+@import"post1.css";
+body{
+    background-color:#f0f0f0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2ch;
+}
+nav{
+    background-color:#c5d5c5;
+}
+nav ul li a:hover{
+    color: white;
+    background-color:#3b3a30;
+}

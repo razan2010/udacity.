@@ -1,0 +1,23 @@
+.styles{
+    color:#626F47;
+    background-color: #C7DB9C;
+}
+.login{
+    background-image: url('../img/dina2.jpg') ;
+    background-color: #fff; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 500px;
+    color:green;
+}
+.kidcalc{   
+    background-image: url('../img/dina1.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+    background-attachment: fixed;
+    width: 450px;
+    color:green;
+}
+h1{
+    color:green;
+}

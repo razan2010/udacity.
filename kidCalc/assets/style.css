@@ -1,0 +1,43 @@
+
+.kidcalc{
+    border: 1px solid black;
+    padding: 6px;
+    margin:5px;
+    width: 500px;
+}
+.ballons{
+    display:grid;
+  grid-template-columns: repeat(2,1fr);
+}
+.stars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+  display:grid;
+  grid-template-columns: repeat(3,1fr);
+}
+button{
+    color: aliceblue;
+    background-color:#7886C7;
+    width:auto;
+}
+body{
+    color: blue;
+}
+.butt{
+    background-color: black;
+    color: aliceblue;
+}
+@media (min-width:780px){
+    body{
+        color: blue;
+    }
+    section {
+        display: flex;
+       justify-content: space-between;
+       padding: 20px;
+    }
+}
+
